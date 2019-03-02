@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_placeholder">Url</string>
+    <string name="title_placeholder">Title</string>
+    <string name="add_portal_btn">ADD PORTAL</string>
+    <string name="btn_placeholder">Placeholder</string>
+    <string name="open_portal_btn">Open</string>
+    <string name="https">https://</string>
+    <string name="default_website">https://rooster.hva.nl/</string>
+    <string name="default_website_title">Roosters</string>
+    <string name="fields_required">All fields required!</string>
+</resources>
